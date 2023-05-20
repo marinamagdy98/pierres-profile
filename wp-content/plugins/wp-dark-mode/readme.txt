@@ -4,7 +4,7 @@ Tags: dark, dark mode, night mode, dark theme, dark mode plugin, social share, G
 Requires at least: 5.0
 Tested up to: 6.2
 Requires PHP: 5.6
-Stable tag: 4.1.4
+Stable tag: 4.1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -141,6 +141,9 @@ Learn more about how [Appsero collects and uses this data](https://appsero.com/p
 
 Additionally read the WPPOOL [privacy policy](https://wppool.dev/privacy-policy/).
 
+== Special Thanks ==
+This plugin includes a modified version of a script from Dark Reader, an open-source browser extension licensed under the MIT license. We thank the Dark Reader team for their contribution to the open-source community. For more information about Dark Reader and their licensing terms, please visit https://github.com/darkreader/darkreader.
+
 == Frequently Asked Questions ==
 
 = How can I show the dark mode switch? =
@@ -192,6 +195,11 @@ Yes, You can toggle the dark mode/ light mode by keyboard shortcut `(Ctrl + Alt 
 7. Dark Mode color presets
 
 == Changelog ==
+
+= 4.1.5 - May 02 2023 =
+* [Fixed] Dark mode images not saving on Ultimate Single Site
+* [Improvement] Added special thanks to core script contributor
+* [Improvement] Enhanced readme assets for better visualization
 
 = 4.1.4 - April 12 2023 =
 * [Improvement] Enhanced readme assets for better visualization

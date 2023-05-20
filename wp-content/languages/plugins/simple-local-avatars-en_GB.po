@@ -1,0 +1,114 @@
+# Translation of Plugins - Simple Local Avatars - Stable (latest release) in English (UK)
+# This file is distributed under the same license as the Plugins - Simple Local Avatars - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-27 09:35:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: en_GB\n"
+"Project-Id-Version: Plugins - Simple Local Avatars - Stable (latest release)\n"
+
+#: includes/class-simple-local-avatars.php:576
+#: includes/class-simple-local-avatars.php:689
+msgid "Only allow users with file upload capabilities to upload local avatars (Authors and above)"
+msgstr "Only allow users with file upload capabilities to upload local avatars (Authors and above)"
+
+#: includes/class-simple-local-avatars.php:564
+msgid "Only allow local avatars (still uses Gravatar for default avatars)"
+msgstr "Only allow local avatars (still uses Gravatar for default avatars)"
+
+#: includes/class-simple-local-avatars.php:882
+msgid "Avatar"
+msgstr "Avatar"
+
+#. Author URI of the plugin
+msgid "https://10up.com"
+msgstr "https://10up.com"
+
+#. Description of the plugin
+msgid "Adds an avatar upload field to user profiles. Generates requested sizes on demand, just like Gravatar! Simple and lightweight."
+msgstr "Adds an avatar upload field to user profiles. Generates requested sizes on demand, just like Gravatar! Simple and lightweight."
+
+#. Plugin URI of the plugin
+msgid "https://10up.com/plugins/simple-local-avatars-wordpress/"
+msgstr "https://10up.com/plugins/simple-local-avatars-wordpress/"
+
+#. Plugin Name of the plugin
+msgid "Simple Local Avatars"
+msgstr "Simple Local Avatars"
+
+#: includes/class-simple-local-avatars.php:1109
+msgid "You do not have permission to edit this user."
+msgstr "You do not have permission to edit this user."
+
+#: includes/class-simple-local-avatars.php:1071
+msgid "There was an error uploading the avatar:"
+msgstr "There was an error uploading the avatar:"
+
+#: includes/class-simple-local-avatars.php:961
+msgid "If the local avatar is inappropriate for this site, Gravatar will be attempted."
+msgstr "If the local avatar is inappropriate for this site, Gravatar will be attempted."
+
+#: includes/class-simple-local-avatars.php:948
+#: includes/class-simple-local-avatars.php:951
+msgid "Rating"
+msgstr "Rating"
+
+#: includes/class-simple-local-avatars.php:939
+msgid "You do not have media management permissions. To change your local avatar, contact the blog administrator."
+msgstr "You do not have media management permissions. To change your local avatar, contact the blog administrator."
+
+#: includes/class-simple-local-avatars.php:937
+msgid "No local avatar is set. Set up your avatar at Gravatar.com."
+msgstr "No local avatar is set. Set up your avatar at Gravatar.com."
+
+#: includes/class-simple-local-avatars.php:928
+msgid "Choose from Media Library"
+msgstr "Choose from Media Library"
+
+#: includes/class-simple-local-avatars.php:922
+msgid "Choose an image from your computer:"
+msgstr "Choose an image from your computer:"
+
+#: includes/class-simple-local-avatars.php:886
+msgid "Upload Avatar"
+msgstr "Upload Avatar"
+
+#: includes/class-simple-local-avatars.php:786
+msgid "Set as avatar"
+msgstr "Set as avatar"
+
+#: includes/class-simple-local-avatars.php:569
+msgid "Local Upload Permissions"
+msgstr "Local Upload Permissions"
+
+#: includes/class-simple-local-avatars.php:557
+msgid "Local Avatars Only"
+msgstr "Local Avatars Only"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: includes/class-simple-local-avatars.php:535
+msgid "X &#8212; Even more mature than above"
+msgstr "X &#8212; Even more mature than above"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: includes/class-simple-local-avatars.php:533
+msgid "R &#8212; Intended for adult audiences above 17"
+msgstr "R &#8212; Intended for adult audiences above 17"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: includes/class-simple-local-avatars.php:531
+msgid "PG &#8212; Possibly offensive, usually for audiences 13 and above"
+msgstr "PG &#8212; Possibly offensive, usually for audiences 13 and above"
+
+#. translators: Content suitability rating:
+#. https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America_film_rating_system
+#: includes/class-simple-local-avatars.php:529
+msgid "G &#8212; Suitable for all audiences"
+msgstr "G &#8212; Suitable for all audiences"
